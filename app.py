@@ -13,7 +13,7 @@ st.image(image, use_column_width=True)
 st.markdown('''
 This is the **EDA App** created in Streamlit using the **pandas-profiling** library.
 
-by Evgeniia Komarova [LinkedIn](https://www.linkedin.com/in/evgeniia-komarova-523139235/) [GitHub](https://github.com/aussiekom)
+by Evgeniia Komarova [LinkedIn](https://www.linkedin.com/in/evgeniia-komarova/) [GitHub](https://github.com/aussiekom)
 
 ---
 ''')
